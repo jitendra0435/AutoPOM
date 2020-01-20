@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test name="/home/admin1/Desktop/UploadDemo(failed)">
+    <classes>
+      <class name="AlertHandle">
+        <methods>
+          <include name="methodFor_HandlingAlert"/>
+        </methods>
+      </class> <!-- AlertHandle -->
+      <class name="DragandDrop">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- DragandDrop -->
+    </classes>
+  </test> <!-- /home/admin1/Desktop/UploadDemo(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
