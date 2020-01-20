@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a716560c-2ad8-4ed9-816e-2bd8288ce690" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Driver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots.png2020/01/18-11:42:24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots.png2020/01/18-11:42:29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/qa/Controller/ExcelUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/qa/constantpath/ConstantsI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/qa/pompages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/qa/pompages/SignUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/qa/property/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/qa/testcases/LoginPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/qa/testcases/SignUpTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.qa.testcases.LoginPageTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.qa.testcases.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.qa.testcases.LoginPageTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/qa/Controller/ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/qa/base/BaseC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/qa/constantpath/ConstantsI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/qa/listners/CustomListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/qa/pompages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/qa/pompages/SignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/qa/property/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/qa/testcases/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/qa/testcases/SignUpTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WNFJ9Z96i3L4l3Jurh8s2Txp87" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Driver" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/bridgelabz/qa/testcases" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fbook.qa.util" />
+      <recent name="ExcelUtil" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Driver" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.LoginPageTest.loginPageTest">
+    <configuration name="ListnersDemoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.qa.testcases.ListnersDemoTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ListnersDemoTest.giverMethodForLoginCorrectlyInFaceBook" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.qa.testcases.ListnersDemoTest.giverMethodForLoginCorrectlyInFaceBook&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginPageTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.qa.testcases.LoginPageTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginPageTest.loginPageTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.qa.testcases.LoginPageTest.loginPageTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SignUpTest.loginPageTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.qa.testcases.SignUpTest.loginPageTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.LoginPageTest.loginPageTest" />
+        <item itemvalue="Gradle.LoginPageTest" />
+        <item itemvalue="Gradle.SignUpTest.loginPageTest" />
+        <item itemvalue="Gradle.ListnersDemoTest.giverMethodForLoginCorrectlyInFaceBook" />
+        <item itemvalue="Gradle.ListnersDemoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a716560c-2ad8-4ed9-816e-2bd8288ce690" name="Default Changelist" comment="" />
+      <created>1578982070133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578982070133</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="847" height="677" key="#Project_Structure" timestamp="1579327765208">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1579327765208" />
+    <state x="524" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1579168605250">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1579168605250" />
+    <state x="469" y="257" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579327041567">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="469" y="257" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1299.741@67.27.1299.741" timestamp="1579327041567" />
+    <state x="316" y="27" width="790" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579343800214">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="316" y="27" width="790" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1299.741@67.27.1299.741" timestamp="1579343800214" />
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579172703246">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579172703246" />
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579322752863">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579322752863" />
+    <state width="1253" height="335" key="GridCell.Tab.0.bottom" timestamp="1579348375747">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="335" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579348375747" />
+    <state width="1253" height="335" key="GridCell.Tab.0.center" timestamp="1579348375746">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="335" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579348375746" />
+    <state width="1253" height="335" key="GridCell.Tab.0.left" timestamp="1579348375746">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="335" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579348375746" />
+    <state width="1253" height="335" key="GridCell.Tab.0.right" timestamp="1579348375746">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="335" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579348375746" />
+    <state width="1253" height="153" key="GridCell.Tab.1.bottom" timestamp="1579241719560">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="153" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579241719560" />
+    <state width="1253" height="153" key="GridCell.Tab.1.center" timestamp="1579241719557">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="153" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1579241719557" />
+    <state width="1253" height="153" key="GridCell.Tab.1.left" timestamp="1579241719557">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="153" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1579241719557" />
+    <state width="1253" height="153" key="GridCell.Tab.1.right" timestamp="1579241719559">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="153" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1579241719559" />
+    <state width="649" height="371" key="XDebugger.FullValuePopup" timestamp="1579068859492">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="649" height="371" key="XDebugger.FullValuePopup/67.27.1299.741@67.27.1299.741" timestamp="1579068859492" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1579268340389">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1579268340389" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1579322776944">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1579322776944" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1579334557332">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1579334557332" />
+  </component>
+</project>
