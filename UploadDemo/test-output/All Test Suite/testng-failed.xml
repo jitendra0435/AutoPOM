@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
-  <test name="/home/admin1/Desktop/UploadDemo(failed)">
+  <parameter name="browser" value="chrome"/>
+  <test name=" crossbrowser1(failed)">
     <classes>
-      <class name="AlertHandle">
+      <class name="CrossBrowser">
         <methods>
-          <include name="methodFor_HandlingAlert"/>
+          <include name="givenMethodIntroducingCrossBrowsing" invocation-numbers="0"/>
         </methods>
-      </class> <!-- AlertHandle -->
-      <class name="DragandDrop">
-        <methods>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- DragandDrop -->
+      </class> <!-- CrossBrowser -->
     </classes>
-  </test> <!-- /home/admin1/Desktop/UploadDemo(failed) -->
+  </test> <!--  crossbrowser1(failed) -->
+  <test name="crossbrowser(failed)">
+    <classes>
+      <class name="CrossBrowser">
+        <methods>
+          <include name="givenMethodIntroducingCrossBrowsing" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- CrossBrowser -->
+    </classes>
+  </test> <!-- crossbrowser(failed) -->
 </suite> <!-- Failed suite [All Test Suite] -->

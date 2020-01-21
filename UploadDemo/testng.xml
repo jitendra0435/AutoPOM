@@ -5,14 +5,14 @@
     <parameter name="browser" value="firefox"></parameter>
     <test name=" crossbrowser1" >
         <classes>
-            <class name="CrossBrowser" />
+            <class name="CrossBrowser"/>
         </classes>
     </test>
 
     <parameter name="browser" value="chrome"></parameter>
     <test name="crossbrowser">
         <classes>
-            <class name="CrossBrowser" />
+            <class name="CrossBrowser"/>
         </classes>
     </test>
 
