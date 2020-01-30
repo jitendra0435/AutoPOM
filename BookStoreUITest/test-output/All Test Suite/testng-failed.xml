@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="/home/admin1/Documents/BookStoreUITest(failed)">
+    <classes>
+      <class name="script.SortBooKByPriceHighToLowTest">
+        <methods>
+          <include name="givenMethodForSortingBookByAscendingOrder"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- script.SortBooKByPriceHighToLowTest -->
+    </classes>
+  </test> <!-- /home/admin1/Documents/BookStoreUITest(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

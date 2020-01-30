@@ -1,0 +1,22 @@
+{
+  "customerDetail": [
+    {
+      "name": "jitendra",
+      "phone": "7020313263",
+      "email": "jitemndraS@gmail.com",
+      "city": "punne",
+      "address": "S.B.Road",
+      "pincode": "456985",
+      "landmark": "Pune"
+    },
+    {
+      "name": "jitendra",
+      "phone": "9934569822",
+      "email": "jitu65@gmail.com",
+      "city": "Thane",
+      "address": "Kalwa Naka",
+      "pincode": "569841",
+      "landmark": "Thane"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/home/admin1/Documents/BookStoreUITest">
+        <classes>
+            <class name="script.AddToCartTest">
+                <methods>
+                    <include name="givenMethodForBookAddIntoCartOrNot"/>
+                </methods>
+            </class>
+            <class name="script.PlaceOrderTest">
+                <methods>
+                    <include name="givenMethodForOrderIsPlacedOrNot"/>
+                </methods>
+            </class>
+            <class name="script.SearchBookTest">
+                <methods>
+                    <include name="givenMethodForSearchBook"/>
+                </methods>
+            </class>
+            <class name="script.SortBooKByPriceHighToLowTest">
+                <methods>
+                    <include name="givenMethodForSortingBookByAscendingOrder"/>
+                </methods>
+            </class>
+            <class name="script.SortBookByPriceLowToHighTest">
+                <methods>
+                    <include name="givenMethodForSortingBookByAscendingOrder"/>
+                </methods>
+            </class>
+            <class name="script.RemoveBookFromCartTest">
+                <methods>
+                    <include name="givenMethodForIsBookRemoveFromCartOrNot"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
