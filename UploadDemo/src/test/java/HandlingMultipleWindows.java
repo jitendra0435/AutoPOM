@@ -1,7 +1,6 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 import java.util.Iterator;
@@ -10,7 +9,7 @@ import java.util.Set;
 public class HandlingMultipleWindows {
 
     @Test
-    public void testName() {
+    public void givenMethodForHandlingMultipleWindows() {
 
         System.setProperty("webdriver.chrome.driver","/home/admin1/Music/chrome/chromedriver");
         WebDriver driver=new ChromeDriver();

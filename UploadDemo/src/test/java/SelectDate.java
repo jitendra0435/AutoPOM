@@ -20,7 +20,7 @@ public class SelectDate {
     }
 
     @Test
-    public void givenMethod_ForSelectDate() throws InterruptedException {
+    public void givenMethod_ForSelectDateFromDropDownList() throws InterruptedException {
 
             WebElement day=driver.findElement(By.xpath("//select[@id='day']"));
             day.click();

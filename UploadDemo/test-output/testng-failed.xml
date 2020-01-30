@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
-  <parameter name="browser" value="chrome"/>
-  <test name=" crossbrowser1(failed)">
-    <classes>
-      <class name="CrossBrowser">
-        <methods>
-          <include name="givenMethodIntroducingCrossBrowsing" invocation-numbers="0"/>
-        </methods>
-      </class> <!-- CrossBrowser -->
-    </classes>
-  </test> <!--  crossbrowser1(failed) -->
   <test name="crossbrowser(failed)">
     <classes>
       <class name="CrossBrowser">
+        <parameter name="browserName" value="chrome"/>
         <methods>
           <include name="givenMethodIntroducingCrossBrowsing" invocation-numbers="0"/>
         </methods>

@@ -1,4 +1,5 @@
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeMethod;
@@ -21,9 +22,9 @@ public class Upload {
     }
 
     @Test
-    public void Fileupload() throws AWTException, InterruptedException{
-        //JavascriptExecutor js = (JavascriptExecutor) driver;
-       // js.executeScript("scroll(0,350)");
+    public void givenMethodFor_ReadPdfFile() throws AWTException, InterruptedException{
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("scroll(0,350)");
         Thread.sleep(5000);
         driver.findElement(By.xpath("//span[@class='browse-text']")).click();
 

@@ -1,11 +1,15 @@
-import org.junit.experimental.theories.Theories;
+
+import com.twilio.Twilio;
+import com.twilio.base.ResourceSet;
+import com.twilio.rest.api.v2010.account.Message;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
 import java.util.concurrent.TimeUnit;
+import java.util.stream.Stream;
+import java.util.stream.StreamSupport;
 
 public class OTPDemo {
 
@@ -24,7 +28,7 @@ public class OTPDemo {
     @Test
     public void methodForHandlingOTP() throws InterruptedException {
 
-        driver.findElement(By.xpath("//a[@id='nav-link-accountList']")).click();
+        driver.findElement(By.xpath("//span[contains(text(),'Hello. Sign in')]")).click();
 
         Thread.sleep(2000);
 
@@ -33,15 +37,33 @@ public class OTPDemo {
 
         Thread.sleep(1000);
 
-        driver.findElement(By.id("//span[@class='a-dropdown-prompt']")).click();
+        driver.findElement(By.xpath("//span[@class='a-button-text a-declarative']")).click();
+        Thread.sleep(1000);
 
-        driver.findElement(By.xpath("//a[@id='auth-country-picker_212']")).click();
+        driver.findElement(By.id("auth-country-picker_212")).click();
+        Thread.sleep(1000);
 
-        driver.findElement(By.id("ap_phone_number")).sendKeys("+12695335485");
+        driver.findElement(By.id("ap_phone_number")).sendKeys("2695335485");
 
-        driver.findElement(By.id("ap-password")).sendKeys("jitendra123456");
+        driver.findElement(By.xpath("//input[@id='ap_password']")).sendKeys("jitendra123456");
 
         driver.findElement(By.xpath("//input[@id='continue']")).click();
+
+
+        Twilio.init(ACC_SID,AUTH_TOKEN);
+        String smsBody=getMessage();
+        System.out.println(smsBody);
+    }
+
+
+    public static String getMessage(){
+        return getMessages().filter(m -> m.getDirection().compareTo(Message.Direction.INBOUND)==0)
+                .filter(m -> m.getTo().equals("")).map(Message::getBody).findFirst()
+                .orElseThrow(IllegalStateException::new);
+    }
+    private static Stream<Message> getMessages(){
+        ResourceSet<Message> messages= Message.reader(ACC_SID).read();
+        return StreamSupport.stream(messages.spliterator(),false);
     }
 
 }
