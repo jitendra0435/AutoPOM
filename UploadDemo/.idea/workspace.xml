@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4ad302c-847e-4a26-a790-ea45995cde00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/CrossBrowser.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/CrossBrowser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/HandlingMultipleWindows.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/HandlingMultipleWindows.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/OTPDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/OTPDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/SelectDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/SelectDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Upload.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/Upload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/OTPDemo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-OTPDemo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CrossBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CrossBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DragandDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DragandDrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HandleBrowserPopup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HandlingMultipleWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HandlingMultipleWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OTPDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OTPDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ReadPdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReadPdf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SelectDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SelectDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Upload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Upload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/ crossbrowser1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/ crossbrowser1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/ crossbrowser1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/ crossbrowser1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/crossbrowser.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/crossbrowser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/crossbrowser.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/crossbrowser.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-CrossBrowser.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-CrossBrowser.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WbVdCwWs5MwCfHJJ8o74po33cM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/BookStoreUITest" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.AlreadyOpenedBrowser.givenMethodForRunScriptOnAlreadyOpenedBrowser">
+    <configuration name="AlreadyOpenedBrowser.givenMethodForRunScriptOnAlreadyOpenedBrowser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AlreadyOpenedBrowser.givenMethodForRunScriptOnAlreadyOpenedBrowser&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CrossBrowser.given" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CrossBrowser.given&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CrossBrowser.givenMethodIntroducingCrossBrowsing" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CrossBrowser.givenMethodIntroducingCrossBrowsing&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SelectDate.givenMethod_ForSelectDateFromDropDownList" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SelectDate.givenMethod_ForSelectDateFromDropDownList&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="/home/admin1/Desktop/UploadDemo/src/test/java/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UploadDemo1.test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.FailedReporter" />
+        <listener class="org.testng.reporters.EmailableReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.FailedReporter" />
+        <listener class="org.testng.reporters.EmailableReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.CrossBrowser.givenMethodIntroducingCrossBrowsing" />
+      <item itemvalue="Gradle.CrossBrowser.given" />
+      <item itemvalue="Gradle.SelectDate.givenMethod_ForSelectDateFromDropDownList" />
+      <item itemvalue="Gradle.AlreadyOpenedBrowser.givenMethodForRunScriptOnAlreadyOpenedBrowser" />
+      <item itemvalue="TestNG./home/admin1/Desktop/UploadDemo/src/test/java/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AlreadyOpenedBrowser.givenMethodForRunScriptOnAlreadyOpenedBrowser" />
+        <item itemvalue="Gradle.SelectDate.givenMethod_ForSelectDateFromDropDownList" />
+        <item itemvalue="TestNG./home/admin1/Desktop/UploadDemo/src/test/java/testng.xml" />
+        <item itemvalue="Gradle.CrossBrowser.givenMethodIntroducingCrossBrowsing" />
+        <item itemvalue="Gradle.CrossBrowser.given" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4ad302c-847e-4a26-a790-ea45995cde00" name="Default Changelist" comment="" />
+      <created>1579418366997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579418366997</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="29" width="687" height="734" key="#/home/admin1/Desktop/UploadDemo/src/test/java/testng.xml" timestamp="1580040046249">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="368" y="29" width="687" height="734" key="#/home/admin1/Desktop/UploadDemo/src/test/java/testng.xml/67.27.1299.741@67.27.1299.741" timestamp="1580040046249" />
+    <state x="288" y="58" width="847" height="677" key="#Project_Structure" timestamp="1580039993287">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="288" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1580039993287" />
+    <state x="174" y="27" width="1084" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579523408504">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="27" width="1084" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1579523408504" />
+    <state x="448" y="183" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580040038924">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="448" y="183" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1580040038924" />
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579954782851">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579954782851" />
+    <state width="1253" height="222" key="GridCell.Tab.0.bottom" timestamp="1579703287053">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="222" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579703287053" />
+    <state width="1253" height="222" key="GridCell.Tab.0.center" timestamp="1579703287053">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="222" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579703287053" />
+    <state width="1253" height="222" key="GridCell.Tab.0.left" timestamp="1579703287053">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="222" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579703287053" />
+    <state width="1253" height="222" key="GridCell.Tab.0.right" timestamp="1579703287053">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="222" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579703287053" />
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1579703284208">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1579703284208" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1580042839547">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1580042839547" />
+    <state x="412" y="49" width="599" height="695" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579499938646">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="412" y="49" width="599" height="695" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1579499938646" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1579690844549">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1579690844549" />
+  </component>
+</project>
